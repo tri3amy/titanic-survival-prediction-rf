@@ -104,6 +104,8 @@ You can import the prediction function to test custom data:
 Predicting Caledon Hockley's fate (1st Class, Male, Age 30, Ticket Fare 150.0, Has Cabin, Family Size 2, Title 'Mr', Embarked 'S').
 Predicting Margaret Brown's fate (1st Class, Female, Age 44, Ticket Fare 55.0, Has Cabin, Family Size 1, Title 'Mrs', Embarked 'C').
 
+*Disclaimer: This project was built as a learning portfolio; AI assistants and community resources were utilized to construct and optimize the code.
+
 Author: Tri Puji Utami
 
 LinkedIn: 
