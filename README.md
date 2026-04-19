@@ -78,11 +78,11 @@ cd titanic-survival-prediction-rf
 ```
 3.	Create and activate virtual environment: 
 ```bash
-python -m venv env_project
+conda create -n titanic_env python=3.11 -y
 ```
 activation for windows:
 ```bash
-.\env_project\Scripts\activate
+conda activate titanic_env
 ```
 4.	Install dependencies:
 ```bash
